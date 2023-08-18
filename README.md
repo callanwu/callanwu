@@ -2,18 +2,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 August 2023 - To: 16 August 2023
+From: 10 August 2023 - To: 17 August 2023
 
-Total Time: 1 hr 30 mins
+Total Time: 59 mins
 
-Python       1 hr 9 mins     ███████████████████░░░░░░   76.25 %
-Text         12 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.88 %
-Bash         4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.12 %
-SSH Config   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
-Other        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+Python       54 mins         ███████████████████████░░   92.40 %
+Bash         2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.07 %
+SSH Config   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
+Other        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 ```
 
 <!--END_SECTION:waka-->
