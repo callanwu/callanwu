@@ -2,16 +2,17 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 August 2023 - To: 18 August 2023
+From: 12 August 2023 - To: 19 August 2023
 
-Total Time: 58 mins
+Total Time: 3 hrs 43 mins
 
-Python       54 mins         ███████████████████████░░   92.49 %
-Bash         2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.07 %
-SSH Config   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
-Other        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+HTML         3 hrs 37 mins   ████████████████████████▒   97.59 %
+TSQL         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
+Ezhil        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+SQL          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Python       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
