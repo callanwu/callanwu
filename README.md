@@ -2,18 +2,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 September 2023 - To: 08 September 2023
+From: 02 September 2023 - To: 09 September 2023
 
-Total Time: 10 hrs 44 mins
+Total Time: 9 hrs 14 mins
 
-Python     6 hrs 35 mins   ███████████████▒░░░░░░░░░   61.29 %
-JSON       3 hrs 24 mins   ████████░░░░░░░░░░░░░░░░░   31.71 %
-HTML       31 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.84 %
-Other      10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
-YAML       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
-TSQL       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
-Ezhil      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
-GDScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Python     6 hrs 32 mins   █████████████████▓░░░░░░░   70.79 %
+JSON       2 hrs 8 mins    █████▓░░░░░░░░░░░░░░░░░░░   23.11 %
+HTML       30 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.59 %
+YAML       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
 Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
