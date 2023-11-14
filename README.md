@@ -2,15 +2,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 November 2023 - To: 12 November 2023
+From: 06 November 2023 - To: 13 November 2023
 
-Total Time: 19 hrs 8 mins
+Total Time: 19 hrs 10 mins
 
-Python           9 hrs 23 mins   ████████████▒░░░░░░░░░░░░   49.02 %
-Markdown         3 hrs 56 mins   █████░░░░░░░░░░░░░░░░░░░░   20.55 %
-Bash             2 hrs 46 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.47 %
-Text             2 hrs 4 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.84 %
-TeX              46 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
+Python           9 hrs 23 mins   ████████████▒░░░░░░░░░░░░   48.94 %
+Markdown         3 hrs 57 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.68 %
+Bash             2 hrs 46 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.45 %
+Text             2 hrs 4 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.82 %
+TeX              46 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 %
 ```
 
 <!--END_SECTION:waka-->
