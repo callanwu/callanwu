@@ -18,6 +18,18 @@ Recent works:
 
 <!--START_SECTION:waka-->
 
+```txt
+From: 08 November 2023 - To: 15 November 2023
+
+Total Time: 10 hrs 40 mins
+
+Python           4 hrs           █████████▒░░░░░░░░░░░░░░░   37.60 %
+Markdown         2 hrs 57 mins   ███████░░░░░░░░░░░░░░░░░░   27.66 %
+Bash             2 hrs 7 mins    █████░░░░░░░░░░░░░░░░░░░░   19.85 %
+TeX              46 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.22 %
+Text             42 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.58 %
+```
+
 <!--END_SECTION:waka-->
 
 [![wakatime](https://wakatime.com/badge/user/c6720b29-9431-4a60-bc9d-e1fb2b6bd65f.svg)](https://wakatime.com/@c6720b29-9431-4a60-bc9d-e1fb2b6bd65f)
