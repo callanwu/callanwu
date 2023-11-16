@@ -1,6 +1,6 @@
 #  Jialong Wu
 
-Currently a first-year Master student at [Southeast University](https://www.seu.edu.cn/english/).
+Currently a first-year Master student at [Southeast University](https://www.seu.edu.cn/english/).<br>
 I am a member of the PAttern Learning and Mining ([PALM](http://palm.seu.edu.cn/home.html)) Lab. I interned at AIWaves Inc. and was a research intern at Westlake University.
 
 <details><summary>👨🏻‍💻Research Interest</summary>
