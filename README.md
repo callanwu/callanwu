@@ -21,6 +21,6 @@ Recent works:
 <!--END_SECTION:waka-->
 
 [![wakatime](https://wakatime.com/badge/user/c6720b29-9431-4a60-bc9d-e1fb2b6bd65f.svg)](https://wakatime.com/@c6720b29-9431-4a60-bc9d-e1fb2b6bd65f)
-</details>.
+</details>
 
 ![](https://komarev.com/ghpvc/?username=callanwu)
