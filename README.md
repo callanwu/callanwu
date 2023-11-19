@@ -19,15 +19,15 @@ Recent works:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 November 2023 - To: 17 November 2023
+From: 11 November 2023 - To: 18 November 2023
 
-Total Time: 7 hrs 18 mins
+Total Time: 4 hrs 18 mins
 
-Python           3 hrs           ██████████▒░░░░░░░░░░░░░░   41.28 %
-Markdown         1 hr 32 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.13 %
-Bash             1 hr 6 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   15.26 %
-TeX              56 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.88 %
-Text             28 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.50 %
+Python     1 hr 14 mins    ███████▒░░░░░░░░░░░░░░░░░   28.72 %
+TeX        56 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.81 %
+Bash       47 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.23 %
+Markdown   44 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.21 %
+Text       23 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.06 %
 ```
 
 <!--END_SECTION:waka-->
