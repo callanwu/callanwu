@@ -19,15 +19,15 @@ Recent works:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 December 2023 - To: 30 December 2023
+From: 24 December 2023 - To: 31 December 2023
 
-Total Time: 20 hrs 8 mins
+Total Time: 17 hrs 42 mins
 
-Python       7 hrs 39 mins   █████████▓░░░░░░░░░░░░░░░   38.00 %
-Bash         6 hrs 8 mins    ███████▓░░░░░░░░░░░░░░░░░   30.52 %
-Other        3 hrs 16 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.24 %
-YAML         1 hr 1 min      █▒░░░░░░░░░░░░░░░░░░░░░░░   05.07 %
-Text         49 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 %
+Python       6 hrs 3 mins    ████████▓░░░░░░░░░░░░░░░░   34.19 %
+Bash         5 hrs 45 mins   ████████░░░░░░░░░░░░░░░░░   32.52 %
+Other        3 hrs 5 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.46 %
+YAML         53 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.00 %
+Text         50 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 %
 ```
 
 <!--END_SECTION:waka-->
