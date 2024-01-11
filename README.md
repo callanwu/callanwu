@@ -19,15 +19,15 @@ Recent works:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 January 2024 - To: 09 January 2024
+From: 03 January 2024 - To: 10 January 2024
 
-Total Time: 12 hrs 21 mins
+Total Time: 17 hrs 23 mins
 
-Python       7 hrs 58 mins   ████████████████░░░░░░░░░   64.52 %
-Bash         1 hr 45 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.27 %
-Other        55 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 %
-Text         36 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.95 %
-CSV          27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
+Python       11 hrs 12 mins  ████████████████░░░░░░░░░   64.48 %
+Bash         2 hrs 37 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.12 %
+Other        1 hr 32 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.86 %
+Text         43 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 %
+YAML         39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
 ```
 
 <!--END_SECTION:waka-->
