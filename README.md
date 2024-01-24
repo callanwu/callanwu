@@ -19,15 +19,15 @@ Recent works:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 January 2024 - To: 22 January 2024
+From: 16 January 2024 - To: 23 January 2024
 
-Total Time: 9 hrs 1 min
+Total Time: 6 hrs 33 mins
 
-Python       3 hrs 17 mins   █████████░░░░░░░░░░░░░░░░   36.41 %
-SSH Config   1 hr 44 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.29 %
-Other        1 hr 35 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.70 %
-Bash         1 hr 15 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.00 %
-TeX          33 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.11 %
+Python       2 hrs 5 mins    ████████░░░░░░░░░░░░░░░░░   31.98 %
+SSH Config   1 hr 49 mins    ███████░░░░░░░░░░░░░░░░░░   27.79 %
+Other        1 hr 25 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.82 %
+TeX          33 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 %
+Text         23 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.07 %
 ```
 
 <!--END_SECTION:waka-->
