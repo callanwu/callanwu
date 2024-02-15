@@ -19,15 +19,15 @@ Recent works:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 February 2024 - To: 13 February 2024
+From: 07 February 2024 - To: 14 February 2024
 
-Total Time: 7 hrs 4 mins
+Total Time: 12 hrs 39 mins
 
-Python       3 hrs 52 mins   █████████████▓░░░░░░░░░░░   54.66 %
-Other        1 hr 17 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.21 %
-Bash         46 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.88 %
-Text         41 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.80 %
-JSON         26 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.32 %
+Python       8 hrs 8 mins    ████████████████░░░░░░░░░   64.34 %
+Bash         1 hr 25 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.27 %
+Other        1 hr 20 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.56 %
+Text         1 hr 16 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.09 %
+JSON         26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 %
 ```
 
 <!--END_SECTION:waka-->
