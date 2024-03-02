@@ -10,8 +10,6 @@ My current research interests primarily encompass three aspects:
 - Investigating the <strong>personalization and interactive</strong> abilities of LLMs.
 - Utilizing  <strong>causal inference</strong>  to mitigate bias in conventional NLP tasks.
 
-Recent works:
-[Constituency Parsing using LLMs](https://arxiv.org/pdf/2310.19462.pdf), [Agents](https://arxiv.org/pdf/2309.07870.pdf)
 </details>
 
 <details><summary>📊Weekly Development Breakdown</summary>
@@ -35,4 +33,6 @@ SSH Config   13 mins         ▓░░░░░░░░░░░░░░░░
 [![wakatime](https://wakatime.com/badge/user/c6720b29-9431-4a60-bc9d-e1fb2b6bd65f.svg)](https://wakatime.com/@c6720b29-9431-4a60-bc9d-e1fb2b6bd65f)
 </details>
 
+[![](https://img.shields.io/badge/Google%20Scholar-4385FE.svg?&color=d6d6d6&style=flat-square&logo=google-scholar)](https://scholar.google.com/citations?user=6eg2m4YAAAAJ)
+[![](https://img.shields.io/badge/dynamic/json?label=Citations&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fauthor%2F2240542238%3Ffields%3DcitationCount&style=flat-square&logo=semanticscholar&labelColor=gray&color=gray)](https://www.semanticscholar.org/author/Jialong-Wu/2240542238)
 ![](https://komarev.com/ghpvc/?username=callanwu)
