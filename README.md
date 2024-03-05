@@ -17,15 +17,15 @@ My current research interests primarily encompass three aspects:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 February 2024 - To: 03 March 2024
+From: 26 February 2024 - To: 04 March 2024
 
-Total Time: 7 hrs 15 mins
+Total Time: 6 hrs 37 mins
 
-Python       5 hrs 47 mins   ████████████████████░░░░░   79.68 %
-Markdown     30 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.97 %
-Other        22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.06 %
-JSON         16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 %
-Text         9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
+Python       4 hrs 34 mins   █████████████████▒░░░░░░░   68.86 %
+Markdown     31 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 %
+TeX          29 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 %
+Text         19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.81 %
+Other        17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 %
 ```
 
 <!--END_SECTION:waka-->
