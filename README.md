@@ -10,15 +10,15 @@ View my [homepage](https://callanwu.github.io/) for more details.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 April 2024 - To: 19 April 2024
+From: 13 April 2024 - To: 20 April 2024
 
-Total Time: 12 hrs 2 mins
+Total Time: 10 hrs 15 mins
 
-Python       8 hrs 2 mins    ████████████████▓░░░░░░░░   66.78 %
-Bash         1 hr 39 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.71 %
-Other        1 hr 20 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.17 %
-SSH Config   33 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 %
-Text         19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
+Python       6 hrs 30 mins   ████████████████░░░░░░░░░   63.52 %
+Bash         1 hr 31 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.85 %
+Other        1 hr 13 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.90 %
+SSH Config   33 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.51 %
+Text         19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
 ```
 
 <!--END_SECTION:waka-->
