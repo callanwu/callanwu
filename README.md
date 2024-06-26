@@ -10,14 +10,14 @@ View my [homepage](https://callanwu.github.io/) for more details.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 June 2024 - To: 24 June 2024
+From: 18 June 2024 - To: 25 June 2024
 
-Total Time: 51 mins
+Total Time: 58 mins
 
-Python   32 mins         ████████████████░░░░░░░░░   63.83 %
-HTML     13 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.90 %
-Bash     2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.21 %
-Other    2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 %
+Python   32 mins         ██████████████░░░░░░░░░░░   55.82 %
+HTML     21 mins         █████████░░░░░░░░░░░░░░░░   36.08 %
+Bash     2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 %
+Other    2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 %
 JSON     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
