@@ -10,11 +10,11 @@ View my [homepage](https://callanwu.github.io/) for more details.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 June 2024 - To: 02 July 2024
+From: 26 June 2024 - To: 03 July 2024
 
-Total Time: 6 mins
+Total Time: 2 mins
 
-HTML   6 mins          █████████████████████████   100.00 %
+HTML   2 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
