@@ -8,11 +8,13 @@ View my [homepage](https://callanwu.github.io/) for more details.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 September 2024 - To: 07 October 2024
+From: 01 October 2024 - To: 08 October 2024
 
-Total Time: 0 secs
+Total Time: 12 mins
 
-No activity tracked
+CSV      5 mins          ██████████▓░░░░░░░░░░░░░░   42.62 %
+Python   4 mins          ████████▒░░░░░░░░░░░░░░░░   32.69 %
+Other    3 mins          ██████▒░░░░░░░░░░░░░░░░░░   24.70 %
 ```
 
 <!--END_SECTION:waka-->
