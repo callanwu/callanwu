@@ -1,7 +1,8 @@
 #  Jialong Wu
 
-Contact: jialongwu@seu.edu.cn<br>
 View my [homepage](https://callanwu.github.io/) for more details.
+I focus on enhancing LLM efficiency.
+Contact: jialongwu@seu.edu.cn<br>
 
 <details><summary>📊Weekly Development Breakdown</summary>
 
