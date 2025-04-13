@@ -9,15 +9,15 @@ Contact: jialongwu@seu.edu.cn
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 April 2025 - To: 11 April 2025
+From: 05 April 2025 - To: 12 April 2025
 
-Total Time: 27 hrs 33 mins
+Total Time: 35 hrs 25 mins
 
-Python     16 hrs 13 mins  ██████████████▓░░░░░░░░░░   58.89 %
-JSON       10 hrs 59 mins  ██████████░░░░░░░░░░░░░░░   39.92 %
-Markdown   15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
-Text       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
-Bash       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+JSON       18 hrs 52 mins  █████████████▒░░░░░░░░░░░   53.31 %
+Python     16 hrs 11 mins  ███████████▒░░░░░░░░░░░░░   45.72 %
+Markdown   16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
+Text       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+Bash       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
