@@ -1,6 +1,6 @@
 #  Jialong Wu
 
-I focus on enhancing LLM **efficiency** and building human-like **agents**.<br>
+I focus on building **native agentic models** and enhancing LLM **efficiency** and .<br>
 View my [homepage](https://callanwu.github.io/) for more details. <br>
 Contact: jialongwu@seu.edu.cn
 
