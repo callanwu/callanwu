@@ -1,8 +1,9 @@
 #  Jialong Wu
 
 I focus on building **native agentic models** and enhancing LLM **efficiency**.<br>
+I contribute to [WebAgent](https://github.com/Alibaba-NLP/WebAgent).<br>
 View my [homepage](https://callanwu.github.io/) for more details. <br>
-Contact: jialongwu@seu.edu.cn
+📫Contact: jialongwu@seu.edu.cn
 
 <details><summary>📊Weekly Development Breakdown</summary>
 
