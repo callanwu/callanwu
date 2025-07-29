@@ -3,7 +3,7 @@
 I focus on building **native agentic models** and enhancing LLM **efficiency**.<br>
 I contribute to [WebAgent](https://github.com/Alibaba-NLP/WebAgent) and DeepResearch-like agents.<br>
 View my [homepage](https://callanwu.github.io/) for more details. <br>
-📫Contact: jialongwu@seu.edu.cn
+📫Contact: wujialongml@gmail.com
 
 <details><summary>📊Weekly Development Breakdown</summary>
 
