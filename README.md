@@ -10,14 +10,13 @@ View my [homepage](https://callanwu.github.io/) for more details. <br>
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 July 2025 - To: 30 July 2025
+From: 24 July 2025 - To: 31 July 2025
 
-Total Time: 2 hrs 11 mins
+Total Time: 33 mins
 
-JSON       1 hr 1 min      ███████████▓░░░░░░░░░░░░░   46.64 %
-Python     47 mins         █████████░░░░░░░░░░░░░░░░   36.11 %
-HTML       22 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.25 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+JSON     16 mins         ████████████░░░░░░░░░░░░░   48.60 %
+HTML     15 mins         ███████████▓░░░░░░░░░░░░░   47.11 %
+Python   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 %
 ```
 
 <!--END_SECTION:waka-->
