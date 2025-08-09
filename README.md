@@ -10,15 +10,15 @@ View my [homepage](https://callanwu.github.io/) for more details. <br>
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 July 2025 - To: 07 August 2025
+From: 01 August 2025 - To: 08 August 2025
 
-Total Time: 17 hrs 8 mins
+Total Time: 20 hrs 22 mins
 
-Python                13 hrs 49 mins  ████████████████████░░░░░   80.63 %
-JSON                  3 hrs 7 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.20 %
-HTML                  5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
-Bash                  3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
-Game Maker Language   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+Python                16 hrs 19 mins  ████████████████████░░░░░   80.12 %
+JSON                  3 hrs 49 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.79 %
+HTML                  5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
+Bash                  5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+Game Maker Language   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
 ```
 
 <!--END_SECTION:waka-->
