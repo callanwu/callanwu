@@ -1,7 +1,6 @@
 #  Jialong Wu
 
-I focus on building **native agentic models** and enhancing LLM **efficiency**.<br>
-I contribute to [WebAgent](https://github.com/Alibaba-NLP/WebAgent) and DeepResearch-like agents.<br>
+I am building **native agentic models**. I contribute to [Tongyi DeepResearch](https://github.com/Alibaba-NLP/DeepResearch).<br>
 View my [homepage](https://callanwu.github.io/) for more details. <br>
 📫Contact: wujialongml@gmail.com
 
