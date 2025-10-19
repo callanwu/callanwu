@@ -1,8 +1,9 @@
 #  Jialong Wu
 
 I am building **native agentic models**. I contribute to [Tongyi DeepResearch](https://github.com/Alibaba-NLP/DeepResearch).<br>
-View my [homepage](https://callanwu.github.io/) for more details. <br>
+My name is Jialong Wu (吴家隆). View my [homepage](https://callanwu.github.io/) for more details. <br>
 📫Contact: wujialongml@gmail.com
+
 
 <details><summary>📊Weekly Development Breakdown</summary>
 
