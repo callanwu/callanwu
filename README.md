@@ -9,15 +9,15 @@ My name is Jialong Wu (吴家隆). View my [homepage](https://callanwu.github.io
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 April 2026 - To: 25 April 2026
+From: 19 April 2026 - To: 26 April 2026
 
-Total Time: 5 hrs 40 mins
+Total Time: 4 hrs 1 min
 
-Python     1 hr 29 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.32 %
-HTML       1 hr 15 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.17 %
-Markdown   1 hr 15 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.12 %
-TeX        48 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.23 %
-JSON       23 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.80 %
+Markdown   1 hr 15 mins          ███████▓░░░░░░░░░░░░░░░░░   31.19 %
+HTML       1 hr 3 mins           ██████▓░░░░░░░░░░░░░░░░░░   26.36 %
+Python     50 mins               █████▒░░░░░░░░░░░░░░░░░░░   20.98 %
+TeX        21 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   08.98 %
+Text       14 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.08 %
 ```
 
 <!--END_SECTION:waka-->
